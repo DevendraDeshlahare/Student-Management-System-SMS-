@@ -1,0 +1,4 @@
+1. need to install MySQL Connector
+2. vs code
+3. some images 
+4. implement files name and images directory accoring to your sysytem.
